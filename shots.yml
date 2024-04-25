@@ -2,5 +2,5 @@
   output: shot.png
   height: 800
 - url: https://www.epa.gov/themes/epa_theme/pattern-lab/patterns/pages-standalone-template/pages-standalone-template.rendered.html
-  output: shot.png
+  output: shot-standalone.png
   height: 800
