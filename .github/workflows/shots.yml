@@ -4,7 +4,7 @@ on:
   push:
   workflow_dispatch:
   schedule:
-    - cron:  '0 1 * * *' # every twenty minutes
+    - cron:  '0 1 * * *' # Runs at 01:00
 
 permissions:
   contents: write
